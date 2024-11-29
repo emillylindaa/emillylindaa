@@ -7,4 +7,5 @@ estudo no Alura,e utilizo esse espaço para divulgar ecompartilhar projetos📚
 
 gosto bastante de ler, ouvir musicas e jogar jogos online
 minhas matérias preferidas do colégio são portugues e artes.
-![.](file:///home/escola/Downloads/O%20Pequeno%20Pr%C3%ADncipe.gif)
+![.](file:///home/escola/Downloads/O%20Pequeno%20Pr%C3%ADncipe.gif
+![].(file:///home/escola/Downloads/O%20Pequeno%20Pr%C3%ADncipe.gif)
